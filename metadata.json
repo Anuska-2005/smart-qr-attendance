@@ -1,0 +1,6 @@
+{
+  "name": "QR Attendance System",
+  "description": "Full-stack QR-based student attendance tracking with live dashboard, session expiry, and CSV exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
